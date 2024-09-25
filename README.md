@@ -35,7 +35,7 @@ When you turn on the computer:
 | Run Level | What it is? |
 | ------- | -------------------- |
 | Run Level 0 | Power Off |
-| Run Level 1 | Single User Mode with text mode |
+| Run Level 1 | Single User Mode With Text Mode |
 | Run Level 2 | Multiuser Mode With Text Mode (supports all services except NFS & NIS |
 | Run Level 3 | Multiuser Text Mode ( Support all services- Default) |
 | Run Level 4 | Unused |
