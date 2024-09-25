@@ -16,10 +16,14 @@
 | `/dev` | Logical Volume Human/user references |
 | `/home` | User Home Directory |
 
+## Linux Boot Process 
+### How does the Linux Boot Process work? 
+
+
 
 
 ## Basic Commands
-What are the basic Linux commands I should know?
+### What are the basic Linux commands I should know?
 | Command | Friendly Description |
 | ------- | -------------------- |
 | `ls` | Think of this as a way to see what’s inside a folder. It shows you a list of files and folders. |
