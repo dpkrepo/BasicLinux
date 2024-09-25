@@ -80,6 +80,8 @@ They are just different tools for different versions of Linux. It’s like how s
 | ------- | -------------------- |
 | `top` | This command shows you what’s happening inside your computer, like how much memory and CPU are being used. It’s like looking at a dashboard in a car. |
 ### How do I monitor running processes?
+| Command | Friendly Description |
+| ------- | -------------------- |
 | `ps` | This shows you a list of all the programs running on your computer. It’s like seeing a list of all the apps open on your phone. |
 
 
