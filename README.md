@@ -1,3 +1,4 @@
+## Understand File Structure
 
 
 
@@ -29,6 +30,7 @@ File permissions are like rules that say who can read, write, or run a file. Thi
 | ------- | -------------------- |
 | `apt` | for Debian/Ubuntu |
 | `yum or dnf` | for CentOS/RHEL |
+
 These are like app stores for Linux. You can install new programs or remove ones you don’t need.
 ### What is the difference between apt, yum, and dnf?
 They are just different tools for different versions of Linux. It’s like how some people use Google Play and others use the Apple App Store.
@@ -54,7 +56,6 @@ You can use commands like ifconfig or ip to set up your network. It’s like set
 
 ## Shell Scripting
 ### What is a shell script and how do I write one?
-
 A shell script is like a recipe that tells your computer what to do step by step. You write it in a text file and then run it.
 ### How do I automate tasks using shell scripts?
 You can write a script to do things automatically, like making your bed every morning without you having to do it.
@@ -64,33 +65,37 @@ You can write a script to do things automatically, like making your bed every mo
 ### How do I create and manage user accounts?
 | Command | Friendly Description |
 | ------- | -------------------- |
-adduser: This command creates a new user. It’s like adding a new player to a game.
-usermod: This modifies a user account. It’s like changing the settings for a player.
+| `adduser` | This command creates a new user. It’s like adding a new player to a game. |
+| `usermod` | This modifies a user account. It’s like changing the settings for a player. |
 ### How do I switch between users?
 | Command | Friendly Description |
 | ------- | -------------------- |
-su: This command lets you switch to another user. It’s like logging into a different account on your computer.
+| `su` | This command lets you switch to another user. It’s like logging into a different account on your computer. |
 
 
 ## Text Editors
 ### What are the common text editors in Linux (e.g., vi, nano)?
 | Command | Friendly Description |
 | ------- | -------------------- |
-vi and nano are programs that let you edit text files. It’s like using Notepad or Word.
+| `vi` | Program that let you edit text files. |
+| `nano` | Program that let you edit text files. |
+
+It’s like using Notepad or Word.
 ### How do I use vi or nano to edit files?
 | Command | Friendly Description |
 | ------- | -------------------- |
-nano: Open a file with nano filename. It’s simple and easy to use.
-vi: Open a file with vi filename. It’s more powerful but a bit harder to learn.
+| `nano` | Open a file with nano filename. It’s simple and easy to use. |
+| `vi` | Open a file with vi filename. It’s more powerful but a bit harder to learn. |
 
 
 ## System Updates
 ### How do I update my Linux system?
 | Command | Friendly Description |
 | ------- | -------------------- |
-apt-get update For Debian/Ubuntu 
-apt-get upgrade For Debian/Ubuntu
-yum update For CentOS/RHEL
+| `apt-get update` | For Debian/Ubuntu |
+| `apt-get upgrade` | For Debian/Ubuntu |
+| `yum update` | For CentOS/RHEL |
+
 These are commands to update your system. 
 It’s like updating apps on your phone.
 ### How do I manage system updates and upgrades?
