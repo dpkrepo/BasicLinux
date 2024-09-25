@@ -3,18 +3,18 @@
 | ------- | -------------------- |
 | `/root` | parent directory. |
 | `/bin` | Users Commands |
-| `/usr/bin` | |
-| `/sbin` | |
-| `/usr/sbin` | |
-| `/etc` | |
-| `/usr` | |
-| `/lib` | |
-| `/var` | |
-| `/opt` | |
-| `/tmp` | |
-| `/devices` | |
-| `/dev` | |
-| `/home` | |
+| `/usr/bin` | Users Commands|
+| `/sbin` | Admins Commands |
+| `/usr/sbin` | Admins Commands |
+| `/etc` | System And Network Configuration Files |
+| `/usr` | Man Pages and Documents |
+| `/lib` | Modules |
+| `/var` | System Logs Files |
+| `/opt` | 3rd Party Packages |
+| `/tmp` | Temporary Files|
+| `/devices` | Physical Devices (Kernel References |
+| `/dev` | Logical Volume Human/user references |
+| `/home` | User Home Directory |
 
 
 
