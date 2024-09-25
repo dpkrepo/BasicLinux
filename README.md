@@ -38,9 +38,9 @@ They are just different tools for different versions of Linux. It’s like how s
 ### How do I check system resource usage (CPU, memory, disk)?
 | Command | Friendly Description |
 | ------- | -------------------- |
-top: This command shows you what’s happening inside your computer, like how much memory and CPU are being used. It’s like looking at a dashboard in a car.
+| `top` | This command shows you what’s happening inside your computer, like how much memory and CPU are being used. It’s like looking at a dashboard in a car. |
 ### How do I monitor running processes?
-ps: This shows you a list of all the programs running on your computer. It’s like seeing a list of all the apps open on your phone.
+| `ps` | This shows you a list of all the programs running on your computer. It’s like seeing a list of all the apps open on your phone. |
 
 
 ## Networking
@@ -49,7 +49,7 @@ You can use commands like ifconfig or ip to set up your network. It’s like set
 ### How do I check network connectivity?
 | Command | Friendly Description |
 | ------- | -------------------- |
-ping: This command checks if your computer can talk to another computer. It’s like sending a message and waiting for a reply.
+| `ping` | This command checks if your computer can talk to another computer. It’s like sending a message and waiting for a reply. |
 
 
 ## Shell Scripting
