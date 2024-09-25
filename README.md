@@ -6,11 +6,11 @@
 What are the basic Linux commands I should know?
 | Command | Friendly Description |
 | ------- | -------------------- |
-ls: Think of this as a way to see what’s inside a folder. It shows you a list of files and folders.
-cd: This command lets you move around between folders. It’s like opening different drawers in a cabinet.
-cp: This is for copying files. Imagine you have a piece of paper, and you want to make a copy of it.
-mv: This moves files from one place to another. It’s like taking a book from one shelf and putting it on another.
-rm: This deletes files. It’s like throwing away a piece of paper you don’t need anymore.
+| `ls` | Think of this as a way to see what’s inside a folder. It shows you a list of files and folders. |
+| `cd` | This command lets you move around between folders. It’s like opening different drawers in a cabinet. |
+| `cp` | This is for copying files. Imagine you have a piece of paper, and you want to make a copy of it. |
+| `mv` | This moves files from one place to another. It’s like taking a book from one shelf and putting it on another. |
+| `rm` | This deletes files. It’s like throwing away a piece of paper you don’t need anymore. |
 
 
 ## File Permissions
@@ -19,15 +19,17 @@ File permissions are like rules that say who can read, write, or run a file. Thi
 ### How do I change file permissions and ownership?
 | Command | Friendly Description |
 | ------- | -------------------- |
-chmod: This command changes the permissions of a file. It’s like giving someone permission to read or write a book.
-chown: This changes the owner of a file. It’s like saying, “This book now belongs to you.”
+| `chmod` | This command changes the permissions of a file. It’s like giving someone permission to read or write a book. |
+| `chown` | This changes the owner of a file. It’s like saying, “This book now belongs to you.” |
 
 
 ## Package Management
 ### How do I install and remove software packages?
 | Command | Friendly Description |
 | ------- | -------------------- |
-apt (for Debian/Ubuntu) and yum or dnf (for CentOS/RHEL) are like app stores for Linux. You can install new programs or remove ones you don’t need.
+| `apt` | for Debian/Ubuntu |
+| `yum or dnf` | for CentOS/RHEL |
+These are like app stores for Linux. You can install new programs or remove ones you don’t need.
 ### What is the difference between apt, yum, and dnf?
 They are just different tools for different versions of Linux. It’s like how some people use Google Play and others use the Apple App Store.
 
