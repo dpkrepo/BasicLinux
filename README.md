@@ -19,6 +19,17 @@
 ## Linux Boot Process 
 ### How does the Linux Boot Process work? 
 
+When you turn on the computer: 
+| Process Name | What it does |
+| ------- | -------------------- |
+| BIOS/PROM |  It will check for bootable devies on the machine |
+| MASTER BOOT RECORD(MBR) |  Main Boot Code |
+| PARTITION TABLE(PT) | Disk partions information
+| BOOT LOADER | It holds all the bootable files (GRUB) |
+| KERNEL | It contains all the core operating system files |
+| `/`  `/USER` |
+| `/ETC/INITTAB` | Default run level information |
+| `/ETC/FSTAB` | Gets all the mount Detail |
 
 
 
