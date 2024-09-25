@@ -31,7 +31,15 @@ When you turn on the computer:
 | `/ETC/INITTAB` | Default run level information |
 | `/ETC/FSTAB` | Gets all the mount Detail |
 
-
+## Run Levels in Linux
+| Run Level | What it is? |
+| ------- | -------------------- |
+| Run Level 0 | Power Off |
+| Run Level 1 | Single User Mode with text mode |
+| Run Level 2 | Multiuser Mode With Text Mode (supports all services except NFS & NIS |
+| Run Level 3 | Multiuser Text Mode ( Support all services- Default) |
+| Run Level 4 | Unused |
+| Run Level 5| Multiuser With Graphical Mode|
 
 ## Basic Commands
 ### What are the basic Linux commands I should know?
