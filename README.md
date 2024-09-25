@@ -1,5 +1,20 @@
 ## Understand File Structure
-
+| Command | Friendly Description |
+| ------- | -------------------- |
+| `/root` | parent directory. |
+| `/bin` | Users Commands |
+| `/usr/bin` | |
+| `/sbin` | |
+| `/usr/sbin` | |
+| `/etc` | |
+| `/usr` | |
+| `/lib` | |
+| `/var` | |
+| `/opt` | |
+| `/tmp` | |
+| `/devices` | |
+| `/dev` | |
+| `/home` | |
 
 
 
