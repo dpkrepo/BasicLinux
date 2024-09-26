@@ -27,7 +27,7 @@ When you turn on the computer:
 | PARTITION TABLE(PT) | Disk partions information
 | BOOT LOADER | It holds all the bootable files (GRUB) |
 | KERNEL | It contains all the core operating system files |
-| `/`  `/USER` |
+| `/`  `/USER` | root & User information |
 | `/ETC/INITTAB` | Default run level information |
 | `/ETC/FSTAB` | Gets all the mount Detail |
 
@@ -115,12 +115,26 @@ You can write a script to do things automatically, like making your bed every mo
 
 ## Text Editors
 ### What are the common text editors in Linux (e.g., vi, nano)?
+
 | Command | Friendly Description |
 | ------- | -------------------- |
 | `vi` | Program that let you edit text files. |
 | `nano` | Program that let you edit text files. |
 
-It’s like using Notepad or Word.
+### Vi editor have three mode
+| Command | Friendly Description |
+| ------- | -------------------- |
+| Insert mode  `I` | (India) Here you can edit the file |
+| Escape mode `esc` | (Escape) Here you can Search, replace, delete the files. To search something in file press forward slash ‘/‘ enter the text or pattern you want to search)
+| Colon Mode `:` | (see bottom left side of corner there should be ‘:’ |
+| `wq` | ( this means write and quit) to save the file forcefully Enter ‘wq!’ |
+
+
+To check the file whether its successfully saved or not type command in terminal cat <yourfilename> 
+You see your Modified file here , if you don’t want to modify your file and want to quit type ‘:’ and press ‘q’ . 
+Want to quit forcefully?  ‘q!’
+
+It’s like using Notepad or Word.It is nothing but command line tools for text editor.
 ### How do I use vi or nano to edit files?
 | Command | Friendly Description |
 | ------- | -------------------- |
